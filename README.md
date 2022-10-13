@@ -1,3 +1,9 @@
+# ReactJS todo-list App
+This code will help you getting familiarized with your way to learn ReactJS
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
